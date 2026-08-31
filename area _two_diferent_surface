@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+float radius,b,h,Total_area;
+printf("Enter radius :");
+scanf("%f",& radius);
+printf("Enter base:");
+scanf("%f",& b);
+printf("Enter height:");
+scanf("%f",& h);
+Total_area = (b*h)/2+3.14*radius*radius;
+printf ("\n Total Area = %f",Total_area);
+return 0;
+}
+
