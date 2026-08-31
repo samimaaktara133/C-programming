@@ -35,7 +35,7 @@ build useful projects, and become a strong software engineer.
 
 ### 📫 Connect With Me
 
-- GitHub: [@samima123](https://github.com/samima123)
+- GitHub :[@samimaaktara133](https://github.com/samimaaktara133
 
 > "Learning today, building tomorrow." 🚀
 
